@@ -18,8 +18,8 @@
         , "node"
     ],
     "devDependencies": {
-        "mocha": "1.10.0",
-        "nock": "0.18.2"
+        "mocha": "3.1.2",
+        "nock": "9.0.2"
     },
     "engine" : {
         "node": ">=0.6"
